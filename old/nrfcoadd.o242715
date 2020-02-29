@@ -1,0 +1,146 @@
+root INFO: Loading config overrride file '/software/lsstsw/stack_20191101/stack/miniconda3-4.5.12-4d7b902/Linux64/obs_subaru/19.0.0-21-g92014831/config/multiBandDriver.py'
+root INFO: Loading config overrride file '/software/lsstsw/stack_20191101/stack/miniconda3-4.5.12-4d7b902/Linux64/obs_subaru/19.0.0-21-g92014831/config/hsc/multiBandDriver.py'
+CameraMapper INFO: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+HscMapper WARN: Unable to find calib root directory
+root INFO: Running: -c /datasets/hsc/repo --rerun RC/w_2019_38/DM-21386:private/lskelvin/apertures_fulldriverTEMP --id tract=9813 filter=HSC-R patch=2,2 -c measureCoaddSources.measurement.doReplaceWithNoise=False --configfile /project/lskelvin/apertures/config_driver.py --noExit
+CameraMapper INFO: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1114 INFO  2020-02-24T10:46:56.290-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1103 INFO  2020-02-24T10:46:56.293-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1109 INFO  2020-02-24T10:46:56.295-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1111 INFO  2020-02-24T10:46:56.296-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1101 INFO  2020-02-24T10:46:56.296-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1110 INFO  2020-02-24T10:46:56.301-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1097 INFO  2020-02-24T10:46:56.301-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1112 INFO  2020-02-24T10:46:56.302-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1108 INFO  2020-02-24T10:46:56.304-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1096 INFO  2020-02-24T10:46:56.304-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1105 INFO  2020-02-24T10:46:56.304-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1099 INFO  2020-02-24T10:46:56.305-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1093 INFO  2020-02-24T10:46:56.305-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1115 INFO  2020-02-24T10:46:56.306-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1104 INFO  2020-02-24T10:46:56.307-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1117 INFO  2020-02-24T10:46:56.309-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1095 INFO  2020-02-24T10:46:56.310-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1114 INFO  2020-02-24T10:46:56.311-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1103 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1096 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1097 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1095 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1115 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1099 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1108 INFO  2020-02-24T10:46:56.312-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1117 INFO  2020-02-24T10:46:56.313-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1109 INFO  2020-02-24T10:46:56.313-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1110 INFO  2020-02-24T10:46:56.314-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1112 INFO  2020-02-24T10:46:56.314-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1101 INFO  2020-02-24T10:46:56.315-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1093 INFO  2020-02-24T10:46:56.315-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1104 INFO  2020-02-24T10:46:56.315-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1111 INFO  2020-02-24T10:46:56.315-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1105 INFO  2020-02-24T10:46:56.316-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1116 INFO  2020-02-24T10:46:56.319-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1116 INFO  2020-02-24T10:46:56.320-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1106 INFO  2020-02-24T10:46:56.321-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1106 INFO  2020-02-24T10:46:56.322-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1094 INFO  2020-02-24T10:46:56.482-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1094 INFO  2020-02-24T10:46:56.483-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1102 INFO  2020-02-24T10:46:56.511-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1102 INFO  2020-02-24T10:46:56.512-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1100 INFO  2020-02-24T10:46:56.515-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1100 INFO  2020-02-24T10:46:56.516-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1107 INFO  2020-02-24T10:46:56.548-0600 CameraMapper: Loading exposure registry from /datasets/hsc/repo/registry.sqlite3
+1107 INFO  2020-02-24T10:46:56.549-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1108 INFO  2020-02-24T10:46:57.204-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1093 INFO  2020-02-24T10:46:57.209-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1095 INFO  2020-02-24T10:46:57.210-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1103 INFO  2020-02-24T10:46:57.211-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1111 INFO  2020-02-24T10:46:57.211-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1115 INFO  2020-02-24T10:46:57.212-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1109 INFO  2020-02-24T10:46:57.213-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1104 INFO  2020-02-24T10:46:57.216-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1117 INFO  2020-02-24T10:46:57.218-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1105 INFO  2020-02-24T10:46:57.218-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1114 INFO  2020-02-24T10:46:57.220-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1116 INFO  2020-02-24T10:46:57.220-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1097 INFO  2020-02-24T10:46:57.221-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1110 INFO  2020-02-24T10:46:57.225-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1106 INFO  2020-02-24T10:46:57.230-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1112 INFO  2020-02-24T10:46:57.231-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1101 INFO  2020-02-24T10:46:57.240-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1096 INFO  2020-02-24T10:46:57.246-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1099 INFO  2020-02-24T10:46:57.252-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1100 INFO  2020-02-24T10:46:57.398-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1102 INFO  2020-02-24T10:46:57.418-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1094 INFO  2020-02-24T10:46:57.424-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1107 INFO  2020-02-24T10:46:57.479-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+CameraMapper INFO: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1108 INFO  2020-02-24T10:46:58.166-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1093 INFO  2020-02-24T10:46:58.170-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1117 INFO  2020-02-24T10:46:58.182-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1116 INFO  2020-02-24T10:46:58.185-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1105 INFO  2020-02-24T10:46:58.187-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1111 INFO  2020-02-24T10:46:58.187-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1097 INFO  2020-02-24T10:46:58.188-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1095 INFO  2020-02-24T10:46:58.190-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1115 INFO  2020-02-24T10:46:58.190-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1110 INFO  2020-02-24T10:46:58.190-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1112 INFO  2020-02-24T10:46:58.190-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1106 INFO  2020-02-24T10:46:58.203-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1114 INFO  2020-02-24T10:46:58.203-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1109 INFO  2020-02-24T10:46:58.205-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1104 INFO  2020-02-24T10:46:58.206-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1103 INFO  2020-02-24T10:46:58.209-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1101 INFO  2020-02-24T10:46:58.215-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1099 INFO  2020-02-24T10:46:58.226-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1096 INFO  2020-02-24T10:46:58.241-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1100 INFO  2020-02-24T10:46:58.355-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1094 INFO  2020-02-24T10:46:58.413-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1102 INFO  2020-02-24T10:46:58.446-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+1107 INFO  2020-02-24T10:46:58.495-0600 CameraMapper: Loading calib registry from /datasets/hsc/repo/CALIB/calibRegistry.sqlite3
+HscMapper WARN: Unable to find calib root directory
+1108 WARN  2020-02-24T10:46:59.147-0600 HscMapper: Unable to find calib root directory
+1117 WARN  2020-02-24T10:46:59.150-0600 HscMapper: Unable to find calib root directory
+1112 WARN  2020-02-24T10:46:59.150-0600 HscMapper: Unable to find calib root directory
+1093 WARN  2020-02-24T10:46:59.151-0600 HscMapper: Unable to find calib root directory
+1097 WARN  2020-02-24T10:46:59.157-0600 HscMapper: Unable to find calib root directory
+1115 WARN  2020-02-24T10:46:59.157-0600 HscMapper: Unable to find calib root directory
+1116 WARN  2020-02-24T10:46:59.160-0600 HscMapper: Unable to find calib root directory
+1110 WARN  2020-02-24T10:46:59.161-0600 HscMapper: Unable to find calib root directory
+1105 WARN  2020-02-24T10:46:59.166-0600 HscMapper: Unable to find calib root directory
+1114 WARN  2020-02-24T10:46:59.167-0600 HscMapper: Unable to find calib root directory
+1101 WARN  2020-02-24T10:46:59.168-0600 HscMapper: Unable to find calib root directory
+1111 WARN  2020-02-24T10:46:59.171-0600 HscMapper: Unable to find calib root directory
+1104 WARN  2020-02-24T10:46:59.178-0600 HscMapper: Unable to find calib root directory
+1109 WARN  2020-02-24T10:46:59.180-0600 HscMapper: Unable to find calib root directory
+1095 WARN  2020-02-24T10:46:59.180-0600 HscMapper: Unable to find calib root directory
+1106 WARN  2020-02-24T10:46:59.184-0600 HscMapper: Unable to find calib root directory
+1099 WARN  2020-02-24T10:46:59.188-0600 HscMapper: Unable to find calib root directory
+1103 WARN  2020-02-24T10:46:59.198-0600 HscMapper: Unable to find calib root directory
+1096 WARN  2020-02-24T10:46:59.268-0600 HscMapper: Unable to find calib root directory
+1100 WARN  2020-02-24T10:46:59.324-0600 HscMapper: Unable to find calib root directory
+1094 WARN  2020-02-24T10:46:59.375-0600 HscMapper: Unable to find calib root directory
+1102 WARN  2020-02-24T10:46:59.399-0600 HscMapper: Unable to find calib root directory
+1107 WARN  2020-02-24T10:46:59.457-0600 HscMapper: Unable to find calib root directory
+multiBandDriver INFO: lsst-verify-worker02:1092: Start merge detections from [DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())]
+multiBandDriver.mergeCoaddDetections INFO: Read 13716 sources for filter HSC-R: DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())
+multiBandDriver.mergeCoaddDetections.skyObjects INFO: Added 100 of 100 requested sky sources (100%)
+multiBandDriver.mergeCoaddDetections INFO: Merged to 13816 sources
+multiBandDriver.mergeCoaddDetections INFO: Culled 1402 of 25057 peaks
+multiBandDriver.mergeCoaddDetections INFO: Wrote merged catalog: DataId(initialdata={'tract': 9813, 'patch': '2,2'}, tag=set())
+multiBandDriver INFO: lsst-verify-worker02:1092: Finished merge detections from [DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())]
+multiBandDriver INFO: lsst-verify-worker02:1092: Start deblending [DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())]
+multiBandDriver.deblendCoaddSources INFO: Read 13816 detections: DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())
+multiBandDriver.deblendCoaddSources.singleBandDeblend INFO: Deblending 13816 sources
+multiBandDriver.deblendCoaddSources.singleBandDeblend INFO: Deblended: of 13816 sources, 4018 were deblended, creating 13857 children, total 27673 sources
+multiBandDriver.deblendCoaddSources INFO: Wrote 27673 sources: DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())
+multiBandDriver INFO: lsst-verify-worker02:1092: Finished deblending [DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())]
+multiBandDriver INFO: lsst-verify-worker02:1092: Start measurements on DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())
+multiBandDriver.measureCoaddSources INFO: Read 27673 detections: DataId(initialdata={'tract': 9813, 'filter': 'HSC-R', 'patch': '2,2'}, tag=set())
+multiBandDriver.measureCoaddSources.measurement INFO: Measuring 27673 sources (13816 parents, 13857 children) 
+slurmstepd: error: *** JOB 242715 ON lsst-verify-worker02 CANCELLED AT 2020-02-24T11:01:59 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 242715.0 ON lsst-verify-worker02 CANCELLED AT 2020-02-24T11:01:59 DUE TO TIME LIMIT ***
